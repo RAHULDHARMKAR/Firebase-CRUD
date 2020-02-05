@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Notification</string>
+
+    <string-array name="citySpinner">
+        <item>Pune</item>
+        <item>Pune</item>
+        <item>Pune</item>
+        <item>Pune</item>
+
+    </string-array>
+
+</resources>
